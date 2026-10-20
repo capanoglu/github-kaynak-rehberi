@@ -4,7 +4,7 @@ Yazılım, tasarım, yapay zekâ ve dijital üretim süreçlerinde kullanılabil
 
 Amacım; bir aracı ararken yalnızca adına değil, ne işe yaradığına ve hangi teknolojiyle çalıştığına da kolayca ulaşabilmek. Bu rehberde uygulamalar, kütüphaneler, AI ajanları, otomasyon araçları, eğitim kaynakları ve beceri koleksiyonları bulunuyor.
 
-**Başlangıç listesi: 201 farklı repo.** Aynı proje birden fazla kez eklenmedi; bilinen eski adresler güncel kayıtlarla birleştirildi.
+**Listede 204 farklı repo bulunuyor.** Aynı proje birden fazla kez eklenmedi; bilinen eski adresler güncel kayıtlarla birleştirildi.
 
 ## Bu rehberde neler var?
 
@@ -233,6 +233,9 @@ Açıklamalar proje tanıtımları temel alınarak özetlendi. Bütün projeler 
 | 199 | [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) | Web tabanlı açık kaynak video düzenleyici. | OpenCut-app | TypeScript / web / video |
 | 200 | [storytold/photocraft](https://github.com/storytold/photocraft) | Rust ile geliştirilen açık kaynak fotoğraf düzenleyici. | storytold | Rust / görsel düzenleme |
 | 201 | [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym) | Kendi sunucunda antrenman, egzersiz, rutin ve vücut ağırlığı takibi. | DuarteSantos8 | JavaScript / web / spor takibi |
+| 202 | [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | Yapay zekâ ajanlarına uzun süreli bellek kazandırır; geçmiş deneyimleri saklayıp ilgili bilgileri sonraki görevlerde kullanır. | vectorize-io | Python / ajan belleği |
+| 203 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | Kendi bilgisayarında ses klonlama, ses üretimi, dublaj, transkripsiyon ve sesli kitap oluşturma araçları sunar. | debpalash | Python / yerel ses AI |
+| 204 | [opendatalab/MinerU](https://github.com/opendatalab/MinerU) | PDF ve Office belgelerindeki metin, tablo ve düzen bilgilerini AI sistemleri için Markdown veya JSON formatına dönüştürür. | opendatalab | Python / belge işleme / OCR |
 
 ## Tekilleştirme ve adres değişiklikleri
 
