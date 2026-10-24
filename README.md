@@ -4,7 +4,7 @@ Yazılım, tasarım, yapay zekâ ve dijital üretim süreçlerinde kullanılabil
 
 Amacım; bir aracı ararken yalnızca adına değil, ne işe yaradığına ve hangi teknolojiyle çalıştığına da kolayca ulaşabilmek. Bu rehberde uygulamalar, kütüphaneler, AI ajanları, otomasyon araçları, eğitim kaynakları ve beceri koleksiyonları bulunuyor.
 
-**Listede 204 farklı repo bulunuyor.** Aynı proje birden fazla kez eklenmedi; bilinen eski adresler güncel kayıtlarla birleştirildi.
+**Listede 205 farklı repo bulunuyor.** Aynı proje birden fazla kez eklenmedi; bilinen eski adresler güncel kayıtlarla birleştirildi.
 
 ## Bu rehberde neler var?
 
@@ -236,6 +236,7 @@ Açıklamalar proje tanıtımları temel alınarak özetlendi. Bütün projeler 
 | 202 | [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | Yapay zekâ ajanlarına uzun süreli bellek kazandırır; geçmiş deneyimleri saklayıp ilgili bilgileri sonraki görevlerde kullanır. | vectorize-io | Python / ajan belleği |
 | 203 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | Kendi bilgisayarında ses klonlama, ses üretimi, dublaj, transkripsiyon ve sesli kitap oluşturma araçları sunar. | debpalash | Python / yerel ses AI |
 | 204 | [opendatalab/MinerU](https://github.com/opendatalab/MinerU) | PDF ve Office belgelerindeki metin, tablo ve düzen bilgilerini AI sistemleri için Markdown veya JSON formatına dönüştürür. | opendatalab | Python / belge işleme / OCR |
+| 205 | [blader/humanizer](https://github.com/blader/humanizer) | Yapay zekâ ile yazılmış metinlerdeki kalıplaşmış anlatımları azaltıp anlamı koruyarak daha doğal bir dille yeniden düzenleyen ajan becerisi. | blader | Markdown / Claude Code / Codex / ajan becerisi |
 
 ## Tekilleştirme ve adres değişiklikleri
 
