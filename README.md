@@ -4,7 +4,7 @@ Yazılım, tasarım, yapay zekâ ve dijital üretim süreçlerinde kullanılabil
 
 Amacım; bir aracı ararken yalnızca adına değil, ne işe yaradığına ve hangi teknolojiyle çalıştığına da kolayca ulaşabilmek. Bu rehberde uygulamalar, kütüphaneler, AI ajanları, otomasyon araçları, eğitim kaynakları ve beceri koleksiyonları bulunuyor.
 
-**Listede 205 farklı repo bulunuyor.** Aynı proje birden fazla kez eklenmedi; bilinen eski adresler güncel kayıtlarla birleştirildi.
+**Listede 209 farklı repo bulunuyor.** Aynı proje birden fazla kez eklenmedi; bilinen eski adresler güncel kayıtlarla birleştirildi.
 
 ## Bu rehberde neler var?
 
@@ -237,6 +237,10 @@ Açıklamalar proje tanıtımları temel alınarak özetlendi. Bütün projeler 
 | 203 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | Kendi bilgisayarında ses klonlama, ses üretimi, dublaj, transkripsiyon ve sesli kitap oluşturma araçları sunar. | debpalash | Python / yerel ses AI |
 | 204 | [opendatalab/MinerU](https://github.com/opendatalab/MinerU) | PDF ve Office belgelerindeki metin, tablo ve düzen bilgilerini AI sistemleri için Markdown veya JSON formatına dönüştürür. | opendatalab | Python / belge işleme / OCR |
 | 205 | [blader/humanizer](https://github.com/blader/humanizer) | Yapay zekâ ile yazılmış metinlerdeki kalıplaşmış anlatımları azaltıp anlamı koruyarak daha doğal bir dille yeniden düzenleyen ajan becerisi. | blader | Markdown / Claude Code / Codex / ajan becerisi |
+| 206 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Görsel arayüzle yapay zekâ ajanları ve iş akışları oluşturur; akışları API veya MCP üzerinden uygulamalara bağlar. | langflow-ai | Python / TypeScript / AI iş akışları |
+| 207 | [withastro/astro](https://github.com/withastro/astro) | İçerik ağırlıklı kurumsal siteler, bloglar ve açılış sayfaları geliştirmek için web çatısı. | withastro | TypeScript / web framework |
+| 208 | [fabricjs/fabric.js](https://github.com/fabricjs/fabric.js) | Tarayıcıda yazı, görsel ve şekillerin düzenlenebildiği etkileşimli tasarım araçları oluşturmak için Canvas ve SVG kütüphanesi. | fabricjs | TypeScript / JavaScript / Canvas / SVG |
+| 209 | [browser-use/browser-use](https://github.com/browser-use/browser-use) | Yapay zekâ ajanlarının web sayfalarında gezinmesini ve tarayıcı üzerinden görevler yürütmesini sağlayan otomasyon kütüphanesi. | browser-use | Python / AI / tarayıcı otomasyonu |
 
 ## Tekilleştirme ve adres değişiklikleri
 
