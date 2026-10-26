@@ -4,7 +4,7 @@ Yazılım, tasarım, yapay zekâ ve dijital üretim süreçlerinde kullanılabil
 
 Amacım; bir aracı ararken yalnızca adına değil, ne işe yaradığına ve hangi teknolojiyle çalıştığına da kolayca ulaşabilmek. Bu rehberde uygulamalar, kütüphaneler, AI ajanları, otomasyon araçları, eğitim kaynakları ve beceri koleksiyonları bulunuyor.
 
-**Listede 209 farklı repo bulunuyor.** Aynı proje birden fazla kez eklenmedi; bilinen eski adresler güncel kayıtlarla birleştirildi.
+**Listede 210 farklı repo bulunuyor.** Aynı proje birden fazla kez eklenmedi; bilinen eski adresler güncel kayıtlarla birleştirildi.
 
 ## Bu rehberde neler var?
 
@@ -241,6 +241,8 @@ Açıklamalar proje tanıtımları temel alınarak özetlendi. Bütün projeler 
 | 207 | [withastro/astro](https://github.com/withastro/astro) | İçerik ağırlıklı kurumsal siteler, bloglar ve açılış sayfaları geliştirmek için web çatısı. | withastro | TypeScript / web framework |
 | 208 | [fabricjs/fabric.js](https://github.com/fabricjs/fabric.js) | Tarayıcıda yazı, görsel ve şekillerin düzenlenebildiği etkileşimli tasarım araçları oluşturmak için Canvas ve SVG kütüphanesi. | fabricjs | TypeScript / JavaScript / Canvas / SVG |
 | 209 | [browser-use/browser-use](https://github.com/browser-use/browser-use) | Yapay zekâ ajanlarının web sayfalarında gezinmesini ve tarayıcı üzerinden görevler yürütmesini sağlayan otomasyon kütüphanesi. | browser-use | Python / AI / tarayıcı otomasyonu |
+
+| 210 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | AI kodlama ajanlarına kaynak kodunda güvenlik açıklarını araştırma, doğrulama ve raporlama iş akışı kazandırır. | cloudflare | Markdown / JavaScript / güvenlik becerisi |
 
 ## Tekilleştirme ve adres değişiklikleri
 
