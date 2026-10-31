@@ -8,6 +8,23 @@ description: Write and edit natural Turkish for ÇAPANOĞLU's Sanatizi, Serinofi
 ## Öncelikler
 Bilgi doğruluğu ve kaynak sadakatini; görevdeki içerik/teslim sözleşmesini; marka üslubunu; doğal anlatımı bu sırayla koru. Bu yönerge turkish-humanify incelemesinden esinlenen bağımsız bir proje uyarlamasıdır: https://github.com/durmazoguzhan/turkish-humanify . Upstream paketinin tamamının kurulu olduğunu söyleme. Bu skill doğrulamanın yerine geçmez, yayınlama yetkisi sağlamaz.
 
+## Sanatizi marka dili — onaylı ifadeler
+
+Sanatizi içerik, tasarım, kapak, video, portföy, sunum ve iletişim metinlerinde aşağıdaki ifadeleri kullanım amaçlarına göre esas al. Bunlar önceki çelişkili marka mesajlarının yerini alır. Sabit sloganları yeniden yazma; bir içerikte hepsini kullanmaya çalışma.
+
+| Kullanım | Onaylı ifade |
+|---|---|
+| Ana mesaj | İşimiz problem çözmek. |
+| Üçlü yaklaşım | Meseleyi Anlarız · Çözümü Tasarlarız · Birlikte İz Bırakırız |
+| Felsefemiz | Fikir değiştirir. Tasarım iz bırakır. |
+| Kapak alt yazısı | Tasarım · Teknoloji · Sanat |
+| Portföy başlığı | Birlikte İz Bıraktıklarımız |
+| Marka anlatısı | Bir İzden Bir Markaya |
+| Sanatsal yaklaşım | İlhamını sanattan alan bir yolculuk. |
+| İletişim çağrısı | Projenizi anlatın, birlikte iz bırakalım. |
+
+“Lüks Marka ve Dijital Mimari” ifadesini kullanma. Sanatizi'yi varsayılan olarak yalnızca lüks/premium markalara hizmet veren bir ajans gibi konumlandırma. “Lüks marka mimarisi” gibi aynı konumlandırmayı sürdüren alternatifleri de varsayılan ajans tanımı yapma. Konuya özel bir müşteri talebi yokken gösterişli sıfatlarla aynı söylemi yeniden üretme. Mevcut kurumsal fontları, renkleri, logoyu ve görsel kaliteyi koru; marka dili düzeltmesini görsel kimlik değişikliği olarak yorumlama.
+
 ## Projeye göre üslup
 - Serinofil: sade, sıcak, öğretici anlat. Sağlık bilgisini güncel güvenilir uzman/birincil kaynaklarla doğrula; uyarıları ve veteriner yönlendirmesini koru. Yetiştirici deneyimi uydurma.
 - DefenceTrend: tarafsız ve ölçülü haber dili kullan. Teknik adları, sayıları, birimleri, tarihleri, kişi/kurum atfını ve belirsizliği koru. Reklam dili ekleme.
