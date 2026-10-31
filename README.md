@@ -4,7 +4,7 @@ Yazılım, tasarım, yapay zekâ ve dijital üretim süreçlerinde kullanılabil
 
 Amacım; bir aracı ararken yalnızca adına değil, ne işe yaradığına ve hangi teknolojiyle çalıştığına da kolayca ulaşabilmek. Bu rehberde uygulamalar, kütüphaneler, AI ajanları, otomasyon araçları, eğitim kaynakları ve beceri koleksiyonları bulunuyor.
 
-**Listede 212 farklı repo bulunuyor.** Aynı proje birden fazla kez eklenmedi; bilinen eski adresler güncel kayıtlarla birleştirildi.
+**Listede 214 farklı repo bulunuyor.** Aynı proje birden fazla kez eklenmedi; bilinen eski adresler güncel kayıtlarla birleştirildi.
 
 ## Bu rehberde neler var?
 
@@ -243,8 +243,9 @@ Açıklamalar proje tanıtımları temel alınarak özetlendi. Bütün projeler 
 | 209 | [browser-use/browser-use](https://github.com/browser-use/browser-use) | Yapay zekâ ajanlarının web sayfalarında gezinmesini ve tarayıcı üzerinden görevler yürütmesini sağlayan otomasyon kütüphanesi. | browser-use | Python / AI / tarayıcı otomasyonu |
 | 210 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | AI kodlama ajanlarına kaynak kodunda güvenlik açıklarını araştırma, doğrulama ve raporlama iş akışı kazandırır. | cloudflare | Markdown / JavaScript / güvenlik becerisi |
 | 211 | [kaankiziltug/logo-design-skill](https://github.com/kaankiziltug/logo-design-skill) | AI ajanlarına logo tasarımı için brief, konsept geliştirme, SVG üretimi ve tasarım kontrolü iş akışı kazandırır. | kaankiziltug | Markdown / Python / SVG / tasarım becerisi |
-
 | 212 | [durmazoguzhan/turkish-humanify](https://github.com/durmazoguzhan/turkish-humanify) | Türkçe metinlerin cümle yapısını, ritmini ve anlatımını iyileştiren; yeni yazım ve kaynak sadakatini gözeten düzenleme modları sunan ajan becerisi. | durmazoguzhan | Markdown / Claude Code / Türkçe yazım becerisi |
+| 213 | [lemomo-ai/lemo-opuscar](https://github.com/lemomo-ai/lemo-opuscar) | AI kodlama ajanlarıyla kod üzerinden kısa film ve hareketli grafik üretimi için stil ve örnekler; Canvas/WebGL sahneleri, müzik ve seslendirme akışları sunar. | lemomo-ai | JavaScript / Canvas / WebGL / video |
+| 214 | [myshell-ai/MeloTTS](https://github.com/myshell-ai/MeloTTS) | Çok dilli metinden konuşma (TTS) kütüphanesi; İngilizce, İspanyolca, Fransızca, Çince, Japonca ve Korece destekler. **Türkçe dil desteği yok.** | myshell-ai | Python / TTS / ses AI |
 
 ## Projeye özel beceriler
 
