@@ -1,0 +1,4 @@
+interface:
+  display_name: "Sanatizi Türkçe Editör"
+  short_description: "Doğal Türkçe, kaynak sadakati ve markaya uygun anlatım"
+  default_prompt: "$sanatizi-turkce-editor ile bu içeriği proje üslubuna uygun, bilgileri ve yayın biçimini koruyarak düzenle."
