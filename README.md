@@ -247,11 +247,6 @@ Açıklamalar proje tanıtımları temel alınarak özetlendi. Bütün projeler 
 | 213 | [lemomo-ai/lemo-opuscar](https://github.com/lemomo-ai/lemo-opuscar) | AI kodlama ajanlarıyla kod üzerinden kısa film ve hareketli grafik üretimi için stil ve örnekler; Canvas/WebGL sahneleri, müzik ve seslendirme akışları sunar. | lemomo-ai | JavaScript / Canvas / WebGL / video |
 | 214 | [myshell-ai/MeloTTS](https://github.com/myshell-ai/MeloTTS) | Çok dilli metinden konuşma (TTS) kütüphanesi; İngilizce, İspanyolca, Fransızca, Çince, Japonca ve Korece destekler. **Türkçe dil desteği yok.** | myshell-ai | Python / TTS / ses AI |
 
-## Projeye özel beceriler
-
-- [Sanatizi Türkçe Editör](skills/sanatizi-turkce-editor/SKILL.md): Sanatizi, Serinofil ve DefenceTrend için doğal Türkçe, kaynak sadakati, SEO ve çıktı biçimini koruma kuralları. `turkish-humanify` yaklaşımından yararlanılarak bağımsız biçimde uyarlanmıştır; orijinal paketin birebir kopyası değildir. Projelere göre üslup seçer; bilgi doğrulamasının veya yayınlama entegrasyonunun yerine geçmez.
-- Kullanım: Skill dosyasını ve varsa arayüz tanımını, kullandığınız ajanın desteklediği beceri konumuna alın. Sunucudaki üretim çağrılarına kuralların ayrıca aktarılması gerekir; dosyanın bu repoda bulunması otomasyonlara kendiliğinden bağlanmaz.
-
 ## Tekilleştirme ve adres değişiklikleri
 
 - `f/awesome-chatgpt-prompts`, `f/prompts.chat` ile aynı proje olduğundan tek kayıt olarak tutuldu.
