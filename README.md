@@ -4,7 +4,7 @@ Yazılım, tasarım, yapay zekâ ve dijital üretim süreçlerinde kullanılabil
 
 Amacım; bir aracı ararken yalnızca adına değil, ne işe yaradığına ve hangi teknolojiyle çalıştığına da kolayca ulaşabilmek. Bu rehberde uygulamalar, kütüphaneler, AI ajanları, otomasyon araçları, eğitim kaynakları ve beceri koleksiyonları bulunuyor.
 
-**Listede 215 farklı repo bulunuyor.** Aynı proje birden fazla kez eklenmedi; bilinen eski adresler güncel kayıtlarla birleştirildi.
+**Listede 219 farklı repo bulunuyor.** Aynı proje birden fazla kez eklenmedi; bilinen eski adresler güncel kayıtlarla birleştirildi.
 
 ## Bu rehberde neler var?
 
@@ -247,6 +247,10 @@ Açıklamalar proje tanıtımları temel alınarak özetlendi. Bütün projeler 
 | 213 | [lemomo-ai/lemo-opuscar](https://github.com/lemomo-ai/lemo-opuscar) | AI kodlama ajanlarıyla kod üzerinden kısa film ve hareketli grafik üretimi için stil ve örnekler; Canvas/WebGL sahneleri, müzik ve seslendirme akışları sunar. | lemomo-ai | JavaScript / Canvas / WebGL / video |
 | 214 | [myshell-ai/MeloTTS](https://github.com/myshell-ai/MeloTTS) | Çok dilli metinden konuşma (TTS) kütüphanesi; İngilizce, İspanyolca, Fransızca, Çince, Japonca ve Korece destekler. **Türkçe dil desteği yok.** | myshell-ai | Python / TTS / ses AI |
 | 215 | [ethanplusai/harvey](https://github.com/ethanplusai/harvey) | Potansiyel müşterileri keşfeder, işletme sitelerinden satış sinyalleri toplar ve kişiselleştirilmiş e-posta kampanyaları ile yanıt takibini yönetir; varsayılan olarak gönderim onayı ister. | ethanplusai | Python / Claude Code / Codex / satış otomasyonu |
+| 216 | [irinabuht12-oss/n8n-google-meta-ads](https://github.com/irinabuht12-oss/n8n-google-meta-ads) | Ryze MCP üzerinden Google/Meta reklam verilerini raporlayan ve marka sitesinden reklam görseli varyasyonları üreten iki n8n iş akışı; harici servis kimlik bilgileri gerekir. | irinabuht12-oss | JSON / n8n / MCP / Gemini |
+| 217 | [irinabuht12-oss/email-campaigns-claude](https://github.com/irinabuht12-oss/email-campaigns-claude) | HTML pazarlama e-postaları hazırlamak için tasarım blokları, görsel/GIF işleme ve Resend üzerinden gönderim akışı sunan Claude Code becerisi. | irinabuht12-oss | Markdown / HTML / Claude Code / Resend |
+| 218 | [irinabuht12-oss/marketing-skills](https://github.com/irinabuht12-oss/marketing-skills) | Reklam denetimi, SEO, AI görünürlüğü, içerik ve e-posta pazarlaması için ajan becerileri; canlı hesap verileri için Ryze MCP, alternatif olarak veri dışa aktarımları kullanılır. | irinabuht12-oss | Markdown / Claude becerileri / MCP |
+| 219 | [irinabuht12-oss/google-ads-meta-ads-mcp](https://github.com/irinabuht12-oss/google-ads-meta-ads-mcp) | Google Ads, Meta Ads, GA4 ve Search Console hesaplarını Ryze'ın barındırılan MCP servisiyle AI araçlarına bağlamak için dokümantasyon ve yapılandırmalar; servis planı gerektirir. | irinabuht12-oss | MCP / OAuth / entegrasyon dokümantasyonu |
 
 ## Tekilleştirme ve adres değişiklikleri
 
