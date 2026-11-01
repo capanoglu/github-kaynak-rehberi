@@ -4,7 +4,7 @@ Yazılım, tasarım, yapay zekâ ve dijital üretim süreçlerinde kullanılabil
 
 Amacım; bir aracı ararken yalnızca adına değil, ne işe yaradığına ve hangi teknolojiyle çalıştığına da kolayca ulaşabilmek. Bu rehberde uygulamalar, kütüphaneler, AI ajanları, otomasyon araçları, eğitim kaynakları ve beceri koleksiyonları bulunuyor.
 
-**Listede 214 farklı repo bulunuyor.** Aynı proje birden fazla kez eklenmedi; bilinen eski adresler güncel kayıtlarla birleştirildi.
+**Listede 215 farklı repo bulunuyor.** Aynı proje birden fazla kez eklenmedi; bilinen eski adresler güncel kayıtlarla birleştirildi.
 
 ## Bu rehberde neler var?
 
@@ -246,6 +246,7 @@ Açıklamalar proje tanıtımları temel alınarak özetlendi. Bütün projeler 
 | 212 | [durmazoguzhan/turkish-humanify](https://github.com/durmazoguzhan/turkish-humanify) | Türkçe metinlerin cümle yapısını, ritmini ve anlatımını iyileştiren; yeni yazım ve kaynak sadakatini gözeten düzenleme modları sunan ajan becerisi. | durmazoguzhan | Markdown / Claude Code / Türkçe yazım becerisi |
 | 213 | [lemomo-ai/lemo-opuscar](https://github.com/lemomo-ai/lemo-opuscar) | AI kodlama ajanlarıyla kod üzerinden kısa film ve hareketli grafik üretimi için stil ve örnekler; Canvas/WebGL sahneleri, müzik ve seslendirme akışları sunar. | lemomo-ai | JavaScript / Canvas / WebGL / video |
 | 214 | [myshell-ai/MeloTTS](https://github.com/myshell-ai/MeloTTS) | Çok dilli metinden konuşma (TTS) kütüphanesi; İngilizce, İspanyolca, Fransızca, Çince, Japonca ve Korece destekler. **Türkçe dil desteği yok.** | myshell-ai | Python / TTS / ses AI |
+| 215 | [ethanplusai/harvey](https://github.com/ethanplusai/harvey) | Potansiyel müşterileri keşfeder, işletme sitelerinden satış sinyalleri toplar ve kişiselleştirilmiş e-posta kampanyaları ile yanıt takibini yönetir; varsayılan olarak gönderim onayı ister. | ethanplusai | Python / Claude Code / Codex / satış otomasyonu |
 
 ## Tekilleştirme ve adres değişiklikleri
 
