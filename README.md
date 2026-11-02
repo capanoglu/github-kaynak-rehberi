@@ -4,7 +4,7 @@ Yazılım, tasarım, yapay zekâ ve dijital üretim süreçlerinde kullanılabil
 
 Amacım; bir aracı ararken yalnızca adına değil, ne işe yaradığına ve hangi teknolojiyle çalıştığına da kolayca ulaşabilmek. Bu rehberde uygulamalar, kütüphaneler, AI ajanları, otomasyon araçları, eğitim kaynakları ve beceri koleksiyonları bulunuyor.
 
-**Listede 219 farklı repo bulunuyor.** Aynı proje birden fazla kez eklenmedi; bilinen eski adresler güncel kayıtlarla birleştirildi.
+**Listede 222 farklı repo bulunuyor.** Aynı proje birden fazla kez eklenmedi; bilinen eski adresler güncel kayıtlarla birleştirildi.
 
 ## Bu rehberde neler var?
 
@@ -251,6 +251,9 @@ Açıklamalar proje tanıtımları temel alınarak özetlendi. Bütün projeler 
 | 217 | [irinabuht12-oss/email-campaigns-claude](https://github.com/irinabuht12-oss/email-campaigns-claude) | HTML pazarlama e-postaları hazırlamak için tasarım blokları, görsel/GIF işleme ve Resend üzerinden gönderim akışı sunan Claude Code becerisi. | irinabuht12-oss | Markdown / HTML / Claude Code / Resend |
 | 218 | [irinabuht12-oss/marketing-skills](https://github.com/irinabuht12-oss/marketing-skills) | Reklam denetimi, SEO, AI görünürlüğü, içerik ve e-posta pazarlaması için ajan becerileri; canlı hesap verileri için Ryze MCP, alternatif olarak veri dışa aktarımları kullanılır. | irinabuht12-oss | Markdown / Claude becerileri / MCP |
 | 219 | [irinabuht12-oss/google-ads-meta-ads-mcp](https://github.com/irinabuht12-oss/google-ads-meta-ads-mcp) | Google Ads, Meta Ads, GA4 ve Search Console hesaplarını Ryze'ın barındırılan MCP servisiyle AI araçlarına bağlamak için dokümantasyon ve yapılandırmalar; servis planı gerektirir. | irinabuht12-oss | MCP / OAuth / entegrasyon dokümantasyonu |
+| 220 | [nolangz/pixel2motion](https://github.com/nolangz/pixel2motion) | Raster logoları animasyona uygun SVG olarak yeniden oluşturup HTML logo animasyonları ve hareket önizlemeleri hazırlayan Codex ve Claude becerisi. | nolangz | Python / SVG / CSS / HTML / ajan becerisi |
+| 221 | [iart-ai/motion-design-skills](https://github.com/iart-ai/motion-design-skills) | AI kodlama ajanlarına animasyon ilkeleri, tipografi, renk, kompozisyon, After Effects, Remotion ve logo animasyonu için hareketli grafik tasarım becerileri kazandırır. | iart-ai | Markdown / ajan becerileri / After Effects / Remotion |
+| 222 | [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | Belge veya konu üzerinden AI ajanlarıyla düzenlenebilir PowerPoint sunumları üretmek için yerel iş akışı; yerel şekiller, grafikler ve tablolar oluşturur. | hugohe3 | Python / PPTX / sunum / ajan iş akışı |
 
 ## Tekilleştirme ve adres değişiklikleri
 
