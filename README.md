@@ -4,7 +4,7 @@ Yazılım, tasarım, yapay zekâ ve dijital üretim süreçlerinde kullanılabil
 
 Amacım; bir aracı ararken yalnızca adına değil, ne işe yaradığına ve hangi teknolojiyle çalıştığına da kolayca ulaşabilmek. Bu rehberde uygulamalar, kütüphaneler, AI ajanları, otomasyon araçları, eğitim kaynakları ve beceri koleksiyonları bulunuyor.
 
-**Listede 222 farklı repo bulunuyor.** Aynı proje birden fazla kez eklenmedi; bilinen eski adresler güncel kayıtlarla birleştirildi.
+**Listede 227 farklı repo bulunuyor.** Aynı proje birden fazla kez eklenmedi; bilinen eski adresler güncel kayıtlarla birleştirildi.
 
 ## İşleve göre hızlı erişim
 
@@ -18,7 +18,7 @@ Her repo, kullanılan teknoloji veya paket türünden bağımsız olarak **en ba
 | [Ses, Müzik ve Konuşma Teknolojileri](#ses-muzik) | 10 |
 | [Web Animasyonu ve Etkileşim](#web-animasyonu) | 7 |
 | [Web Geliştirme, Arayüz ve İçerik Yönetimi](#web-gelistirme) | 27 |
-| [3D, Oyun ve Mekân Tasarımı](#3d-oyun) | 9 |
+| [3D, Oyun ve Mekân Tasarımı](#3d-oyun) | 10 |
 | [Sunum, Diyagram ve Veri Görselleştirme](#sunum-diyagram) | 9 |
 | [Belge İşleme, OCR ve Dosya Dönüştürme](#belge-isleme) | 5 |
 | [Yazım, Dil ve Metin Düzenleme](#yazim-dil) | 5 |
@@ -26,10 +26,11 @@ Her repo, kullanılan teknoloji veya paket türünden bağımsız olarak **en ba
 | [Araştırma, Bilgi Yönetimi ve OSINT](#arastirma-bilgi) | 13 |
 | [AI Ajanları, Bellek ve Genel Beceri Koleksiyonları](#ai-ajanlari) | 20 |
 | [AI ile Kodlama ve Geliştirme İş Akışları](#ai-kodlama) | 18 |
-| [AI Modelleri, Yerel Çalıştırma ve Görüntü Analizi](#ai-modelleri) | 7 |
+| [AI Modelleri, Yerel Çalıştırma ve Görüntü Analizi](#ai-modelleri) | 8 |
 | [Otomasyon, Tarayıcı ve Cihaz Kontrolü](#otomasyon) | 13 |
-| [Güvenlik ve Kod Denetimi](#guvenlik) | 10 |
+| [Güvenlik ve Kod Denetimi](#guvenlik) | 11 |
 | [Sunucu, Sistem Yönetimi ve İzleme](#sunucu-sistem) | 8 |
+| [Radyo Sinyalleri, Algılama ve Uydu Verisi](#radyo-uydu) | 2 |
 | [Eğitim, API ve Geliştirici Kaynakları](#egitim-kaynaklar) | 12 |
 
 ## Liste nasıl okunmalı?
@@ -197,6 +198,7 @@ Açıklamalar proje tanıtımları temel alınarak özetlendi. Bütün projeler 
 | 156 | [pascalorg/editor](https://github.com/pascalorg/editor) | Tarayıcıda mimari mekan, yapı ve 3D sahne tasarlama editörü. | TypeScript / 3D web / MCP |
 | 159 | [iamlukethedev/Claw3D](https://github.com/iamlukethedev/Claw3D) | OpenClaw tabanlı 3D oyunlar, simülasyonlar ve uygulamalar geliştirme motoru. | TypeScript / 3D / OpenClaw |
 | 168 | [godotengine/godot](https://github.com/godotengine/godot) | 2D ve 3D oyunları geliştirip farklı platformlara aktarma oyun motoru. | C++ / GDScript / C# |
+| 225 | [robbyant/lingbot-map](https://github.com/robbyant/lingbot-map) | Video veya görüntü akışından kamera pozları ve yoğun 3D sahne geometrisi üreten, uzun diziler için akış tabanlı yeniden oluşturma modeli. | Python / PyTorch / CUDA / 3D AI |
 
 [↑ Kategorilere dön](#işleve-göre-hızlı-erişim)
 
@@ -356,6 +358,7 @@ Açıklamalar proje tanıtımları temel alınarak özetlendi. Bütün projeler 
 | 151 | [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) | Donanımına hangi yerel AI modellerinin uygun olduğunu değerlendirir. | Rust / CLI / yerel LLM |
 | 165 | [ollama/ollama](https://github.com/ollama/ollama) | Açık ağırlıklı AI modellerini yerel bilgisayar veya sunucuda çalıştırıp API olarak sunar. | Go / yerel LLM |
 | 197 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | Farklı AI sağlayıcılarını tek API arkasında birleştirir; kota ve yedek sağlayıcı geçişini yönetir. | TypeScript / AI API geçidi |
+| 224 | [danveloper/flash-moe](https://github.com/danveloper/flash-moe) | Qwen3.5-397B-A17B gibi büyük MoE modellerini uzman ağırlıklarını SSD'den yükleyerek Apple Silicon üzerinde çalıştıran çıkarım motoru. | C / Objective-C / Metal / macOS |
 
 [↑ Kategorilere dön](#işleve-göre-hızlı-erişim)
 
@@ -397,6 +400,7 @@ Açıklamalar proje tanıtımları temel alınarak özetlendi. Bütün projeler 
 | 87 | [morluto/rea](https://github.com/morluto/rea) | Uygulamaların davranışını ve yerel ikili dosyaları ajanlarla tersine mühendislik yoluyla inceler. | TypeScript / tersine mühendislik |
 | 189 | [webpro-nl/knip](https://github.com/webpro-nl/knip) | JavaScript ve TypeScript projelerindeki kullanılmayan dosya, bağımlılık ve dışa aktarımları bulur. | TypeScript / kod analizi |
 | 210 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | AI kodlama ajanlarına kaynak kodunda güvenlik açıklarını araştırma, doğrulama ve raporlama iş akışı kazandırır. | Markdown / JavaScript / güvenlik becerisi |
+| 226 | [yjeanrenaud/yj_nearbyglasses](https://github.com/yjeanrenaud/yj_nearbyglasses) | Bluetooth LE yayınlarındaki üretici bilgileriyle yakındaki olası akıllı gözlükleri tespit edip uyarır; yanlış veya eksik tespit yapabilir. | Kotlin / Swift / Android / iOS / BLE |
 
 [↑ Kategorilere dön](#işleve-göre-hızlı-erişim)
 
@@ -414,6 +418,17 @@ Açıklamalar proje tanıtımları temel alınarak özetlendi. Bütün projeler 
 | 163 | [omacom/omarchy](https://github.com/omacom/omarchy) | Arch Linux tabanlı, önceden yapılandırılmış masaüstü ve geliştirici ortamı. | Shell / Arch Linux |
 | 173 | [grafana/grafana](https://github.com/grafana/grafana) | Farklı kaynaklardan metrik, günlük ve iz verilerini izleme panolarında görselleştirir. | TypeScript / Go / gözlemlenebilirlik |
 | 175 | [prometheus/prometheus](https://github.com/prometheus/prometheus) | Zaman serisi metrikleri toplar, sorgular ve alarm kuralları çalıştırır. | Go / izleme |
+
+[↑ Kategorilere dön](#işleve-göre-hızlı-erişim)
+
+<a id="radyo-uydu"></a>
+
+### Radyo Sinyalleri, Algılama ve Uydu Verisi
+
+| No | Repo adı | Ne işe yarar? | Platform / teknoloji |
+|---:|---|---|---|
+| 223 | [ruvnet/ruview](https://github.com/ruvnet/ruview) | WiFi kanal durum bilgisinden (CSI) varlık, hareket ve poz tahmini için kamera kullanmayan algılama platformu; canlı ölçüm için uyumlu CSI donanımı gerekir. | Rust / Python / ESP32 / WiFi CSI |
+| 227 | [satdump/satdump](https://github.com/satdump/satdump) | Kayıtlı veya SDR üzerinden canlı alınan uydu sinyallerini demodüle eder, çözer ve uydu verisi/görüntüsü olarak işler. | C++ / SDR / masaüstü / CLI |
 
 [↑ Kategorilere dön](#işleve-göre-hızlı-erişim)
 
