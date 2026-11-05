@@ -4,7 +4,7 @@ Yazılım, tasarım, yapay zekâ ve dijital üretim süreçlerinde kullanılabil
 
 Amacım; bir aracı ararken yalnızca adına değil, ne işe yaradığına ve hangi teknolojiyle çalıştığına da kolayca ulaşabilmek. Bu rehberde uygulamalar, kütüphaneler, AI ajanları, otomasyon araçları, eğitim kaynakları ve beceri koleksiyonları bulunuyor.
 
-**Listede 227 farklı repo bulunuyor.** Aynı proje birden fazla kez eklenmedi; bilinen eski adresler güncel kayıtlarla birleştirildi.
+**Listede 228 farklı repo bulunuyor.** Aynı proje birden fazla kez eklenmedi; bilinen eski adresler güncel kayıtlarla birleştirildi.
 
 ## İşleve göre hızlı erişim
 
@@ -23,7 +23,7 @@ Her repo, kullanılan teknoloji veya paket türünden bağımsız olarak **en ba
 | [Belge İşleme, OCR ve Dosya Dönüştürme](#belge-isleme) | 5 |
 | [Yazım, Dil ve Metin Düzenleme](#yazim-dil) | 5 |
 | [CRM, Proje Yönetimi ve İş Uygulamaları](#is-uygulamalari) | 10 |
-| [Araştırma, Bilgi Yönetimi ve OSINT](#arastirma-bilgi) | 13 |
+| [Araştırma, Bilgi Yönetimi ve OSINT](#arastirma-bilgi) | 14 |
 | [AI Ajanları, Bellek ve Genel Beceri Koleksiyonları](#ai-ajanlari) | 20 |
 | [AI ile Kodlama ve Geliştirme İş Akışları](#ai-kodlama) | 18 |
 | [AI Modelleri, Yerel Çalıştırma ve Görüntü Analizi](#ai-modelleri) | 8 |
@@ -286,6 +286,7 @@ Açıklamalar proje tanıtımları temel alınarak özetlendi. Bütün projeler 
 | 164 | [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) | Kurumsal içerikte arama, AI sohbet ve bilgiye erişim platformu. | Python / kurumsal AI / RAG |
 | 184 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | Akademik araştırma, yazım, hakem incelemesi ve revizyon için ajan becerileri. | Python / araştırma becerileri |
 | 194 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Bir konu hakkında yakın dönemde web ve sosyal kaynaklarda konuşulanları araştırıp özetler. | Python / araştırma becerisi |
+| 228 | [crosstalk-solutions/project-nomad](https://github.com/crosstalk-solutions/project-nomad) | Çevrimdışı bilgi ve eğitim sunucusu; Wikipedia, e-kitaplar, dersler, haritalar, notlar ve yerel AI/RAG araçlarını tek yönetim arayüzünde toplar. Kurulum ve içerik indirme için internet gerekir. | Docker / Debian-Ubuntu / Ollama / Qdrant / Kiwix / Kolibri |
 
 [↑ Kategorilere dön](#işleve-göre-hızlı-erişim)
 
