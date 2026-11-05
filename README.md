@@ -4,7 +4,7 @@ Yazılım, tasarım, yapay zekâ ve dijital üretim süreçlerinde kullanılabil
 
 Amacım; bir aracı ararken yalnızca adına değil, ne işe yaradığına ve hangi teknolojiyle çalıştığına da kolayca ulaşabilmek. Bu rehberde uygulamalar, kütüphaneler, AI ajanları, otomasyon araçları, eğitim kaynakları ve beceri koleksiyonları bulunuyor.
 
-**Listede 228 farklı repo bulunuyor.** Aynı proje birden fazla kez eklenmedi; bilinen eski adresler güncel kayıtlarla birleştirildi.
+**Listede 230 farklı repo bulunuyor.** Aynı proje birden fazla kez eklenmedi; bilinen eski adresler güncel kayıtlarla birleştirildi.
 
 ## İşleve göre hızlı erişim
 
@@ -26,7 +26,7 @@ Her repo, kullanılan teknoloji veya paket türünden bağımsız olarak **en ba
 | [Araştırma, Bilgi Yönetimi ve OSINT](#arastirma-bilgi) | 14 |
 | [AI Ajanları, Bellek ve Genel Beceri Koleksiyonları](#ai-ajanlari) | 20 |
 | [AI ile Kodlama ve Geliştirme İş Akışları](#ai-kodlama) | 18 |
-| [AI Modelleri, Yerel Çalıştırma ve Görüntü Analizi](#ai-modelleri) | 8 |
+| [AI Modelleri, Yerel Çalıştırma ve Görüntü Analizi](#ai-modelleri) | 10 |
 | [Otomasyon, Tarayıcı ve Cihaz Kontrolü](#otomasyon) | 13 |
 | [Güvenlik ve Kod Denetimi](#guvenlik) | 11 |
 | [Sunucu, Sistem Yönetimi ve İzleme](#sunucu-sistem) | 8 |
@@ -360,6 +360,8 @@ Açıklamalar proje tanıtımları temel alınarak özetlendi. Bütün projeler 
 | 165 | [ollama/ollama](https://github.com/ollama/ollama) | Açık ağırlıklı AI modellerini yerel bilgisayar veya sunucuda çalıştırıp API olarak sunar. | Go / yerel LLM |
 | 197 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | Farklı AI sağlayıcılarını tek API arkasında birleştirir; kota ve yedek sağlayıcı geçişini yönetir. | TypeScript / AI API geçidi |
 | 224 | [danveloper/flash-moe](https://github.com/danveloper/flash-moe) | Qwen3.5-397B-A17B gibi büyük MoE modellerini uzman ağırlıklarını SSD'den yükleyerek Apple Silicon üzerinde çalıştıran çıkarım motoru. | C / Objective-C / Metal / macOS |
+| 229 | [p-e-w/heretic](https://github.com/p-e-w/heretic) | Dil modellerinin ağırlıklarını yeniden eğitim yapmadan değiştirerek ret yanıtları, aşırı onaylama ve üslup gibi davranışları ayarlamaya yönelik araç; ablasyon teknikleri ve otomatik parametre optimizasyonu kullanır. | Python / PyTorch / Optuna / model düzenleme |
+| 230 | [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) | Farklı sağlayıcıların ücretsiz LLM katmanlarını ve özel uç noktalarını tek OpenAI uyumlu API'de birleştirir; kota takibi ve yedek sağlayıcıya geçiş sunar. Sağlayıcı anahtarları ve kendi kullanım limitleri geçerlidir. | Node.js / React / SQLite / Docker / AI API geçidi |
 
 [↑ Kategorilere dön](#işleve-göre-hızlı-erişim)
 
