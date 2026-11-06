@@ -4,7 +4,7 @@ Yazılım, tasarım, yapay zekâ ve dijital üretim süreçlerinde kullanılabil
 
 Amacım; bir aracı ararken yalnızca adına değil, ne işe yaradığına ve hangi teknolojiyle çalıştığına da kolayca ulaşabilmek. Bu rehberde uygulamalar, kütüphaneler, AI ajanları, otomasyon araçları, eğitim kaynakları ve beceri koleksiyonları bulunuyor.
 
-**Listede 230 farklı repo bulunuyor.** Aynı proje birden fazla kez eklenmedi; bilinen eski adresler güncel kayıtlarla birleştirildi.
+**Listede 233 farklı repo bulunuyor.** Aynı proje birden fazla kez eklenmedi; bilinen eski adresler güncel kayıtlarla birleştirildi.
 
 ## İşleve göre hızlı erişim
 
@@ -14,7 +14,7 @@ Her repo, kullanılan teknoloji veya paket türünden bağımsız olarak **en ba
 |---|---:|
 | [SEO, Reklam ve Pazarlama](#seo-reklam-pazarlama) | 15 |
 | [Grafik Tasarım, Marka ve Görsel Üretim](#grafik-tasarim) | 12 |
-| [Video, Hareketli Grafik ve Logo Animasyonu](#video-motion) | 12 |
+| [Video, Hareketli Grafik ve Logo Animasyonu](#video-motion) | 15 |
 | [Ses, Müzik ve Konuşma Teknolojileri](#ses-muzik) | 10 |
 | [Web Animasyonu ve Etkileşim](#web-animasyonu) | 7 |
 | [Web Geliştirme, Arayüz ve İçerik Yönetimi](#web-gelistirme) | 27 |
@@ -109,6 +109,9 @@ Açıklamalar proje tanıtımları temel alınarak özetlendi. Bütün projeler 
 | 213 | [lemomo-ai/lemo-opuscar](https://github.com/lemomo-ai/lemo-opuscar) | AI kodlama ajanlarıyla kod üzerinden kısa film ve hareketli grafik üretimi için stil ve örnekler; Canvas/WebGL sahneleri, müzik ve seslendirme akışları sunar. | JavaScript / Canvas / WebGL / video |
 | 220 | [nolangz/pixel2motion](https://github.com/nolangz/pixel2motion) | Raster logoları animasyona uygun SVG olarak yeniden oluşturup HTML logo animasyonları ve hareket önizlemeleri hazırlayan Codex ve Claude becerisi. | Python / SVG / CSS / HTML / ajan becerisi |
 | 221 | [iart-ai/motion-design-skills](https://github.com/iart-ai/motion-design-skills) | AI kodlama ajanlarına animasyon ilkeleri, tipografi, renk, kompozisyon, After Effects, Remotion ve logo animasyonu için hareketli grafik tasarım becerileri kazandırır. | Markdown / ajan becerileri / After Effects / Remotion |
+| 231 | [feitangyuan/onetake](https://github.com/feitangyuan/onetake) | Birbirine dönüşen görseller ve kesintisiz kamera hareketiyle ürün lansmanı, tanıtım ve özellik demosu videoları hazırlayan ajan becerisi. Ücretsiz sürüm ticari olmayan kullanımla sınırlıdır; ticari kullanım için ayrı lisans gerekir. | HTML / Python / Playwright / hareketli grafik becerisi |
+| 232 | [pyang5166/gbro-collage-broll](https://github.com/pyang5166/gbro-collage-broll) | Kısa seslendirme metninden yarım tonlu kâğıt kolajı stilinde B-roll animasyonları üretir; görsel fikir ve sabit kare onayından sonra Gemini API ile video oluşturur. | Python / Gemini API / FFmpeg / ajan becerisi |
+| 233 | [JohnHeibel/ClaudeAnimationBase](https://github.com/JohnHeibel/ClaudeAnimationBase) | AI kodlama ajanlarıyla el çizimi görünümünde 2D karakter animasyonları hazırlamak için başlangıç kiti; sahne, zaman çizelgesi ve MP4 render araçları sunar. | JavaScript / p5.js / p5.brush / Node.js / FFmpeg |
 
 [↑ Kategorilere dön](#işleve-göre-hızlı-erişim)
 
