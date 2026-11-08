@@ -4,7 +4,7 @@ Yazılım, tasarım, yapay zekâ ve dijital üretim süreçlerinde kullanılabil
 
 Amacım; bir aracı ararken yalnızca adına değil, ne işe yaradığına ve hangi teknolojiyle çalıştığına da kolayca ulaşabilmek. Bu rehberde uygulamalar, kütüphaneler, AI ajanları, otomasyon araçları, eğitim kaynakları ve beceri koleksiyonları bulunuyor.
 
-**Listede 233 farklı repo bulunuyor.** Aynı proje birden fazla kez eklenmedi; bilinen eski adresler güncel kayıtlarla birleştirildi.
+**Listede 234 farklı repo bulunuyor.** Aynı proje birden fazla kez eklenmedi; bilinen eski adresler güncel kayıtlarla birleştirildi.
 
 ## İşleve göre hızlı erişim
 
@@ -28,7 +28,7 @@ Her repo, kullanılan teknoloji veya paket türünden bağımsız olarak **en ba
 | [AI ile Kodlama ve Geliştirme İş Akışları](#ai-kodlama) | 18 |
 | [AI Modelleri, Yerel Çalıştırma ve Görüntü Analizi](#ai-modelleri) | 10 |
 | [Otomasyon, Tarayıcı ve Cihaz Kontrolü](#otomasyon) | 13 |
-| [Güvenlik ve Kod Denetimi](#guvenlik) | 11 |
+| [Güvenlik ve Kod Denetimi](#guvenlik) | 12 |
 | [Sunucu, Sistem Yönetimi ve İzleme](#sunucu-sistem) | 8 |
 | [Radyo Sinyalleri, Algılama ve Uydu Verisi](#radyo-uydu) | 2 |
 | [Eğitim, API ve Geliştirici Kaynakları](#egitim-kaynaklar) | 12 |
@@ -407,6 +407,7 @@ Açıklamalar proje tanıtımları temel alınarak özetlendi. Bütün projeler 
 | 189 | [webpro-nl/knip](https://github.com/webpro-nl/knip) | JavaScript ve TypeScript projelerindeki kullanılmayan dosya, bağımlılık ve dışa aktarımları bulur. | TypeScript / kod analizi |
 | 210 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | AI kodlama ajanlarına kaynak kodunda güvenlik açıklarını araştırma, doğrulama ve raporlama iş akışı kazandırır. | Markdown / JavaScript / güvenlik becerisi |
 | 226 | [yjeanrenaud/yj_nearbyglasses](https://github.com/yjeanrenaud/yj_nearbyglasses) | Bluetooth LE yayınlarındaki üretici bilgileriyle yakındaki olası akıllı gözlükleri tespit edip uyarır; yanlış veya eksik tespit yapabilir. | Kotlin / Swift / Android / iOS / BLE |
+| 234 | [qybaihe/bla](https://github.com/qybaihe/bla) | Yazılım çıktılarının AI ajanlarıyla tersine mühendisliğini zorlaştırmak için yanıltıcı metadata, kontrol akışı ve analiz bütçesi sınırlarını kullanan koruma aracı; CLI ve MCP sunar. | TypeScript / Node.js / MCP / yazılım koruma |
 
 [↑ Kategorilere dön](#işleve-göre-hızlı-erişim)
 
