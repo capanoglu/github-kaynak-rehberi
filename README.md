@@ -4,7 +4,7 @@ Yazılım, tasarım, yapay zekâ ve dijital üretim süreçlerinde kullanılabil
 
 Amacım; bir aracı ararken yalnızca adına değil, ne işe yaradığına ve hangi teknolojiyle çalıştığına da kolayca ulaşabilmek. Bu rehberde uygulamalar, kütüphaneler, AI ajanları, otomasyon araçları, eğitim kaynakları ve beceri koleksiyonları bulunuyor.
 
-**Listede 234 farklı repo bulunuyor.** Aynı proje birden fazla kez eklenmedi; bilinen eski adresler güncel kayıtlarla birleştirildi.
+**Listede 235 farklı repo bulunuyor.** Aynı proje birden fazla kez eklenmedi; bilinen eski adresler güncel kayıtlarla birleştirildi.
 
 ## İşleve göre hızlı erişim
 
@@ -14,7 +14,7 @@ Her repo, kullanılan teknoloji veya paket türünden bağımsız olarak **en ba
 |---|---:|
 | [SEO, Reklam ve Pazarlama](#seo-reklam-pazarlama) | 15 |
 | [Grafik Tasarım, Marka ve Görsel Üretim](#grafik-tasarim) | 12 |
-| [Video, Hareketli Grafik ve Logo Animasyonu](#video-motion) | 15 |
+| [Video, Hareketli Grafik ve Logo Animasyonu](#video-motion) | 16 |
 | [Ses, Müzik ve Konuşma Teknolojileri](#ses-muzik) | 10 |
 | [Web Animasyonu ve Etkileşim](#web-animasyonu) | 7 |
 | [Web Geliştirme, Arayüz ve İçerik Yönetimi](#web-gelistirme) | 27 |
@@ -112,6 +112,7 @@ Açıklamalar proje tanıtımları temel alınarak özetlendi. Bütün projeler 
 | 231 | [feitangyuan/onetake](https://github.com/feitangyuan/onetake) | Birbirine dönüşen görseller ve kesintisiz kamera hareketiyle ürün lansmanı, tanıtım ve özellik demosu videoları hazırlayan ajan becerisi. Ücretsiz sürüm ticari olmayan kullanımla sınırlıdır; ticari kullanım için ayrı lisans gerekir. | HTML / Python / Playwright / hareketli grafik becerisi |
 | 232 | [pyang5166/gbro-collage-broll](https://github.com/pyang5166/gbro-collage-broll) | Kısa seslendirme metninden yarım tonlu kâğıt kolajı stilinde B-roll animasyonları üretir; görsel fikir ve sabit kare onayından sonra Gemini API ile video oluşturur. | Python / Gemini API / FFmpeg / ajan becerisi |
 | 233 | [JohnHeibel/ClaudeAnimationBase](https://github.com/JohnHeibel/ClaudeAnimationBase) | AI kodlama ajanlarıyla el çizimi görünümünde 2D karakter animasyonları hazırlamak için başlangıç kiti; sahne, zaman çizelgesi ve MP4 render araçları sunar. | JavaScript / p5.js / p5.brush / Node.js / FFmpeg |
+| 235 | [sarpstar/cinecode](https://github.com/sarpstar/cinecode) | AI kodlama ajanlarıyla senaryo, kodla üretilen sahneler, ses tasarımı ve MP4 çıktısını birleştirerek kısa film, reklam, açıklayıcı video ve müzik klibi hazırlayan üretim kiti. | Python / JavaScript / Canvas / three.js / FFmpeg / ajan becerisi |
 
 [↑ Kategorilere dön](#işleve-göre-hızlı-erişim)
 
