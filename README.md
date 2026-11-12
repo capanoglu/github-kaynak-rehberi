@@ -4,7 +4,7 @@ Yazılım, tasarım, yapay zekâ ve dijital üretim süreçlerinde kullanılabil
 
 Amacım; bir aracı ararken yalnızca adına değil, ne işe yaradığına ve hangi teknolojiyle çalıştığına da kolayca ulaşabilmek. Bu rehberde uygulamalar, kütüphaneler, AI ajanları, otomasyon araçları, eğitim kaynakları ve beceri koleksiyonları bulunuyor.
 
-**Listede 235 farklı repo bulunuyor.** Aynı proje birden fazla kez eklenmedi; bilinen eski adresler güncel kayıtlarla birleştirildi.
+**Listede 236 farklı repo bulunuyor.** Aynı proje birden fazla kez eklenmedi; bilinen eski adresler güncel kayıtlarla birleştirildi.
 
 ## İşleve göre hızlı erişim
 
@@ -16,7 +16,7 @@ Her repo, kullanılan teknoloji veya paket türünden bağımsız olarak **en ba
 | [Grafik Tasarım, Marka ve Görsel Üretim](#grafik-tasarim) | 12 |
 | [Video, Hareketli Grafik ve Logo Animasyonu](#video-motion) | 16 |
 | [Ses, Müzik ve Konuşma Teknolojileri](#ses-muzik) | 10 |
-| [Web Animasyonu ve Etkileşim](#web-animasyonu) | 7 |
+| [Web Animasyonu ve Etkileşim](#web-animasyonu) | 8 |
 | [Web Geliştirme, Arayüz ve İçerik Yönetimi](#web-gelistirme) | 27 |
 | [3D, Oyun ve Mekân Tasarımı](#3d-oyun) | 10 |
 | [Sunum, Diyagram ve Veri Görselleştirme](#sunum-diyagram) | 9 |
@@ -148,6 +148,7 @@ Açıklamalar proje tanıtımları temel alınarak özetlendi. Bütün projeler 
 | 119 | [animate-css/animate.css](https://github.com/animate-css/animate.css) | Web sayfalarına hazır CSS animasyon sınıfları ekler. | CSS |
 | 128 | [greensock/GSAP](https://github.com/greensock/GSAP) | Web arayüzlerinde gelişmiş zaman çizelgeli ve kaydırmaya bağlı animasyonlar oluşturur. | JavaScript / web animasyonu |
 | 134 | [juliangarnier/anime](https://github.com/juliangarnier/anime) | Web öğeleri, SVG ve arayüzler için animasyon motoru. | JavaScript |
+| 236 | [JDhruv14/line-art-animation](https://github.com/JDhruv14/line-art-animation) | Canlı SVG çizimleriyle yürüyen karakterler, etkileşimli sahneler ve gündüz-gece döngüleri oluşturan Claude becerisi ve TypeScript kütüphanesi; kare yakalama araçlarıyla video çıktısı da hazırlanabilir. | TypeScript / SVG / Claude becerisi / Node.js / FFmpeg |
 
 [↑ Kategorilere dön](#işleve-göre-hızlı-erişim)
 
